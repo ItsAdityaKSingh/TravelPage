@@ -1,3 +1,4 @@
 # Developing a well-defined website of a Tour Co.
 ...*Under development*...
-[I'm an inline-style link with title](https://itsadityaksingh.github.io/TravelPage/ "Deployed at:")
+##
+"Deployed at:](https://itsadityaksingh.github.io/TravelPage/ "Deployed at:")
